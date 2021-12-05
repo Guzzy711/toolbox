@@ -1,6 +1,4 @@
 # Cyber Professionals Toolbox
-## A lot different tools
-
 
 ## Image manipulation
 #### *Exiftool*

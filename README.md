@@ -78,6 +78,10 @@ https://www.malwarearchaeology.com/cheat-sheets
 #### Critical Log Review Checklist
 https://conversantgroup.com/wp-content/uploads/2019/06/Critical_Log_Review_Checklist_for_Security_Incidents.pdf
 
+#### Threat Hunting Cheatsheets
+https://github.com/Cyb3r-Monk/Cheat-Sheets Cheat sheets for threat hunting, detection and other stuff.
+
+
 #### WADCOMS
 https://wadcoms.github.io/#
 WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.

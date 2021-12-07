@@ -98,6 +98,11 @@ You can upload a ransomware note or a encrypted file to identify which ransomwar
 https://getgophish.com/
 GoPhish is a powerful, open-source phishing framework that makes it easy to test your organization's exposure to phishing.
 
+## HoneyPots 
+
+### Canary Tokens
+https://canarytokens.org/generate can be used to generate word files, that when opened, will alert the user. 
+
 ## Other
 
 #### Send large files

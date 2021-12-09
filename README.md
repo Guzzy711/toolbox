@@ -70,6 +70,11 @@ https://threathunterplaybook.com/introduction.html
 https://uncoder.io/
 A tool for converting sigma rules to queries, for example sigma to splunk query.
 
+## Recovery
+
+### Foremost
+https://linuxconfig.org/how-to-recover-deleted-files-with-foremost-on-linux open source forensic utility which is able to recover deleted files using the technique called data carving
+
 ## Cheatsheets
 
 #### Logging Cheatsheets

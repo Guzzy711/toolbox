@@ -61,7 +61,10 @@ Joe Sandbox detects and analyzes potential malicious files and URLs on Windows, 
 
 #### Hybrid-analysis
 https://www.hybrid-analysis.com/
-Sandboxing tool similar to Joes. ^
+Sandboxing tool similar to Joes. 
+
+### Intezer
+https://analyze.intezer.com/
 
 ## Bypass Tools
 

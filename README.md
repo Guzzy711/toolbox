@@ -48,6 +48,13 @@ Examining a PDF File for Suspicious Characteristics
 https://www.tunnelsup.com/hash-analyzer/
 A tool for identify a hash-type
 
+## Analyzing Cobalt Strike Beacons
+
+### 1768.py
+https://github.com/DidierStevens/DidierStevensSuite/blob/master/1768.py
+https://blog.didierstevens.com/2021/11/04/update-1768-py-version-0-0-9/
+Tool for analyzing cobalt strike beacons (DLLS) 
+
 #### Automated Sandbox tool
 https://www.joesandbox.com/#windows
 Joe Sandbox detects and analyzes potential malicious files and URLs on Windows, Android, Mac OS, Linux, and iOS for suspicious activities. It performs deep malware analysis and generates comprehensive and detailed analysis reports.

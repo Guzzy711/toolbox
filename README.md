@@ -131,6 +131,9 @@ https://github.com/strandjs/IntroLabs/tree/master/IntroClassFiles/Tools/IntroCla
 https://attackevals.mitre-engenuity.org/enterprise/participants/?adversaries=carbanak_fin7
 A tool for comparing different vendors
 
+### Shellbags
+https://shehackske.medium.com/windows-shellbags-part-1-9aae3cfaf17
+
 ## Malware Samples
 
 ### Most common

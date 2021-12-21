@@ -131,6 +131,8 @@ https://github.com/rjbhide/wireshark-forensics-plugin
 #### Send large files
 https://www.filemail.com/
 Use this tool to send large files, you can even set a time when the file should be deleted. 
+### Explain shell
+https://explainshell.com/explain?cmd=nmap+-sV+-sC+-v
 
 ### Code Screenshot
 https://carbon.now.sh/

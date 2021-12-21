@@ -121,6 +121,11 @@ GoPhish is a powerful, open-source phishing framework that makes it easy to test
 ### Canary Tokens
 https://canarytokens.org/generate can be used to generate word files, that when opened, will alert the user. 
 
+## Network
+
+### Wireshark forensics plugin
+https://github.com/rjbhide/wireshark-forensics-plugin
+
 ## Other
 
 #### Send large files

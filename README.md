@@ -66,6 +66,9 @@ Sandboxing tool similar to Joes.
 ### Intezer
 https://analyze.intezer.com/
 
+### A Linux Toolkit for Malware Analysis (VM)
+https://docs.remnux.org/
+
 ## Bypass Tools
 
 #### Hirens BootCD

@@ -126,6 +126,9 @@ https://canarytokens.org/generate can be used to generate word files, that when 
 ### Wireshark forensics plugin
 https://github.com/rjbhide/wireshark-forensics-plugin
 
+## Hardening
+https://github.com/0x6d69636b/windows_hardening
+
 ## Other
 
 #### Send large files
@@ -139,6 +142,9 @@ https://carbon.now.sh/
 
 ### Tools from JohnStand
 https://github.com/strandjs/IntroLabs/tree/master/IntroClassFiles/Tools/IntroClass
+
+### FullEventlogview
+https://www.nirsoft.net/utils/full_event_log_view.html
 
 ### MITRE EVALS
 https://attackevals.mitre-engenuity.org/enterprise/participants/?adversaries=carbanak_fin7
